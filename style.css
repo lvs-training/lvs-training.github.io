@@ -49,6 +49,10 @@ header.startup h1 {
   background-color: #F05F44;
   border-color: #F05F44; }
 
+#mc_embed_signup {
+  background-color: #F05F44;
+}
+
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
