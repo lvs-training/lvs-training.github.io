@@ -56,7 +56,7 @@ header.startup h1 {
   cursor: pointer;
 }
 
-header.clear{
+header.button{
  display: flex;
  justify-content: center;
 }
