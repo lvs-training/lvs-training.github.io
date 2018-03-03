@@ -47,10 +47,12 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44; 
+}
 
-#mc_embed_signup {
+#mc-embedded-subscribe {
   background-color: #F05F44;
+  border-color: #F05F44; 
 }
 
 .btn-primary:hover {
